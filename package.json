@@ -1,0 +1,23 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "sample_project for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fast-two-sms": "^3.0.0",
+    "flatted": "^3.2.5",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.4.4",
+    "nodemailer": "^6.7.8",
+    "nodemon": "^2.0.16",
+    "twilio": "^3.80.1"
+  }
+}
